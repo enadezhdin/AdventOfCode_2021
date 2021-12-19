@@ -1,0 +1,5 @@
+nbcconvert
+*.txt
+.DS_Store
+.ipynb*
+
